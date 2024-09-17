@@ -53,6 +53,16 @@
         "Items",
         "Gamemode"
       ]
+    },
+    "Brickogorsk": {
+      "Creator": "defcon_1",
+      "Name": "Brickogorsk",
+      "FileID": "1z6UuFX8Axtscb2wi50ycXab895lmreJK",
+      "ImageLink": "https://raw.githubusercontent.com/SevenToaster509/APMMList/main/Thumbnails/image_brickogorsk.png",
+      "Description": "test",
+      "Tags": [
+        "Maps"
+      ]
     }
   }
 }
