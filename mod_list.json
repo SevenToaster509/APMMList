@@ -41,6 +41,18 @@
         "Weapons",
         "Items"
       ]
+    },
+    "FNAFMod": {
+      "Creator": "Bondrewd",
+      "Name": "FNAF Map/Mod",
+      "FileID": "1z9TrMazaFOLkTJ8r4h5lWJ1lkLq6QzLr",
+      "ImageLink": "https://github.com/SevenToaster509/APMMList/blob/main/Thumbnails/none.png",
+      "Description": "test",
+      "Tags": [
+        "Maps",
+        "Items",
+        "Gamemode"
+      ]
     }
   }
 }
