@@ -11,7 +11,7 @@
         "Replacement"
       ]
     },
-    "Crowbar Mod": {
+    "AndisItems": {
       "Creator": "Andi_pog",
       "Name": "Crowbar Mod",
       "FileID": "17IYQDw8TrJjPOaS-D2zl5G4D7cL3OagF",
@@ -21,7 +21,7 @@
         "Items"
       ]
     },
-    "BRAI": {
+    "TrafficAI": {
       "Creator": "Mr Microcontroller",
       "Name": "Bricksville Remaster Traffic AI",
       "FileID": "1aXfT7MdTxcva9MMuAiA3uvL5-eWXOxGa",
@@ -42,7 +42,7 @@
         "Items"
       ]
     },
-    "FNAFMod": {
+    "FNAF1": {
       "Creator": "Bondrewd",
       "Name": "FNAF Map/Mod",
       "FileID": "1z9TrMazaFOLkTJ8r4h5lWJ1lkLq6QzLr",
@@ -64,7 +64,7 @@
         "Maps"
       ]
     },
-    "KorlandiaSirens": {
+    "korlandia_sirens": {
       "Creator": "Bondrewd",
       "Name": "Korlandia Sirens",
       "FileID": "1qLc-4UubVfjyuD734MOWTsGe1x45NZgl",
